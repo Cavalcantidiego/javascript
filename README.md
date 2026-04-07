@@ -1,4 +1,4 @@
 # JavaScript
-Repositório usado para estrudo da lógica de programção com uso da linguagem de javaScript. 
+Repositório usado para estudo da lógica de programção com uso da linguagem de javaScript. 
 ## Autor 
 Diego Cavalcanti 
