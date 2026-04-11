@@ -42,4 +42,7 @@ console.log(`Idade: ${idade} anos`)
 console.log(`Peso: ${peso} Kg`)
 console.log(`Altura: ${altura}`)
 console.log(`VIP : ${vip}`)
+console.log(`FCM: ${208 - (0.7 * idade)} bpm`)
+// .toFixed(2) formata o resultado em 2 casas descimais 
+console.log(`IMC: ${(peso / (altura * altura)).toFixed(2)}`)
 console.log("-----------------------------------------------")
