@@ -49,3 +49,13 @@ Entrada --> Processamento --> Saída
 | <= | Menor ou igual a |
 | === | Idêntico a | 
 | !== | Não idêntico a | 
+
+---
+## Estruturas de controle 
+### Estruturas de controle condicionais 
+
+```javaScript
+if (condição){
+  //condição verdadeira
+}
+```
