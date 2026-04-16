@@ -58,4 +58,10 @@ Entrada --> Processamento --> Saída
 if (condição){
   //condição verdadeira
 }
+
+if (condição) {
+  //condição verdadeira
+} else {
+  //condição falsa
+}
 ```
