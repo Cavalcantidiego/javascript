@@ -36,7 +36,7 @@ Entrada --> Processamento --> Saída
 ## Operadores Lógicos 
 | Operador | Simbologia |
 |------------|-------------|
-| ANO | && |
+| AND | && |
 | OR | \|\| | 
 | NOT | ! | 
 
