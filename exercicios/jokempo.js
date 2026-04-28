@@ -7,9 +7,10 @@
 const prompt = require('prompt-sync')()
 
 //variaveis
-let jogador, computador 
+let jogador, computador , novoJogo = "s"
 
 //ux
+do {
 console.clear()                                           
 console.log("    __     _____         _____   ")
 console.log(" __|  |___|  |  |___ ___|  _  |___ ")
@@ -60,3 +61,7 @@ if (jogador === computador) {
 } else {
     console.log("computdor Venceu")
 }
+
+
+    novoJogo = prompt("Deseja Jogar novamente(s/n) ? ")
+} while(novoJogo === "s")
